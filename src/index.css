@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family: sans-serif;
+}
+
+.for_light_theme {
+  --primary-color: #302ae6; --secondary-color: #536390; --font-color: #424242;
+  --bg-color: #fff;
+  --heading-color: #292922;
+  }
+
+  
+.for_dark_theme {
+  --primary-color: #9a97f3;
+  --secondary-color: #818cab; --font-color: 
+  --bg-color: #161625;
+  --heading-color: #818cab;
+  }
