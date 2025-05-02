@@ -3,6 +3,7 @@
 ## 🔗 Internee.pk Clone – React + Tailwind CSS
 
 This project is a responsive clone of the official [internee.pk](https://internee.pk) website, built using **React.js** and **Tailwind CSS**. The goal of this clone is to replicate the design and structure of the original platform while practicing modern frontend development tools and responsive design.
+Clone link: https://clone-internee-pk.vercel.app/
 
 ### 🚀 Features
 
